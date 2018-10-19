@@ -3,4 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 An ill-considered change.
 We will need to manufacture our own oxygen
-This is a commit from Vlad Dracula
+CONFLICT in commit lines!
